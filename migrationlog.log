@@ -1,0 +1,1748 @@
+2022-03-24 13:25:08,275 WARNING:Not Found: /
+2022-03-24 13:25:09,464 WARNING:Not Found: /favicon.ico
+2022-03-24 13:25:24,578 WARNING:Not Found: /favicon.ico
+2022-03-24 13:25:36,186 WARNING:Not Found: /favicon.ico
+2022-03-24 13:43:53,186 WARNING:Not Found: /
+2022-03-24 13:43:53,678 WARNING:Not Found: /favicon.ico
+2022-03-24 13:44:29,940 WARNING:Not Found: /kitventory/custom.css
+2022-03-24 13:44:32,556 WARNING:Not Found: /kitventory/custom.css
+2022-03-24 13:44:42,669 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-03-24 13:44:44,137 DEBUG:https://api.bigcommerce.com:443 "GET /stores/b5ajmj9rbq/v2/products?keyword_filter= HTTP/1.1" 401 None
+2022-04-01 14:54:01,703 WARNING:Not Found: /
+2022-04-01 14:54:03,110 WARNING:Not Found: /favicon.ico
+2022-04-01 14:56:56,743 WARNING:Not Found: /favicon.ico
+2022-04-01 14:57:11,037 WARNING:Not Found: /kitventory/custom.css
+2022-04-01 14:57:25,696 WARNING:Not Found: /kitventory/custom.css
+2022-04-01 14:57:26,051 WARNING:Not Found: /favicon.ico
+2022-04-01 14:58:02,277 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-01 14:58:05,823 DEBUG:https://api.bigcommerce.com:443 "GET /stores/b5ajmj9rbq/v2/products?keyword_filter=bigneo HTTP/1.1" 401 None
+2022-04-01 14:58:23,555 WARNING:Not Found: /favicon.ico
+2022-04-01 14:58:41,876 WARNING:Not Found: /favicon.ico
+2022-04-01 14:58:52,721 WARNING:Not Found: /favicon.ico
+2022-04-01 15:04:11,501 WARNING:Not Found: /
+2022-04-01 15:04:12,722 WARNING:Not Found: /favicon.ico
+2022-04-01 15:13:03,012 WARNING:Not Found: /kitventory/custom.css
+2022-04-01 15:13:03,448 WARNING:Not Found: /kitventory/custom.css
+2022-04-01 15:13:03,591 WARNING:Not Found: /favicon.ico
+2022-04-01 15:13:13,699 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-01 15:13:14,901 DEBUG:https://api.bigcommerce.com:443 "GET /stores/b5ajmj9rbq/v2/products?keyword_filter=neopraxis HTTP/1.1" 401 None
+2022-04-01 15:13:17,630 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-01 15:13:18,219 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-01 15:13:18,230 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-01 15:13:18,504 DEBUG:https://api.bigcommerce.com:443 "GET /stores/b5ajmj9rbq/v2/products?keyword_filter=neopraxis HTTP/1.1" 401 None
+2022-04-01 15:13:19,144 DEBUG:https://api.bigcommerce.com:443 "GET /stores/b5ajmj9rbq/v2/products?keyword_filter=neopraxis HTTP/1.1" 401 None
+2022-04-01 15:13:19,174 DEBUG:https://api.bigcommerce.com:443 "GET /stores/b5ajmj9rbq/v2/products?keyword_filter=neopraxis HTTP/1.1" 401 None
+2022-04-01 15:13:19,225 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-01 15:13:19,225 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-01 15:13:19,571 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-01 15:13:20,088 DEBUG:https://api.bigcommerce.com:443 "GET /stores/b5ajmj9rbq/v2/products?keyword_filter=neopraxis HTTP/1.1" 401 None
+2022-04-01 15:13:20,124 DEBUG:https://api.bigcommerce.com:443 "GET /stores/b5ajmj9rbq/v2/products?keyword_filter=neopraxis HTTP/1.1" 401 None
+2022-04-01 15:13:20,455 DEBUG:https://api.bigcommerce.com:443 "GET /stores/b5ajmj9rbq/v2/products?keyword_filter=neopraxis HTTP/1.1" 401 None
+2022-04-04 10:19:55,064 WARNING:Not Found: /
+2022-04-04 10:19:56,885 WARNING:Not Found: /favicon.ico
+2022-04-04 10:20:11,199 WARNING:Not Found: /
+2022-04-05 12:18:13,824 DEBUG:Using selector: SelectSelector
+2022-04-05 12:18:38,441 WARNING:Not Found: /
+2022-04-05 12:19:02,783 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-05 12:19:02,783 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-05 15:43:38,867 WARNING:Not Found: /newapp/page/
+2022-04-05 15:43:42,192 WARNING:Not Found: /favicon.ico
+2022-04-05 15:44:01,905 DEBUG:Using selector: SelectSelector
+2022-04-05 15:45:13,607 WARNING:Not Found: /
+2022-04-05 15:45:14,710 WARNING:Not Found: /favicon.ico
+2022-04-06 12:56:43,744 DEBUG:Using selector: SelectSelector
+2022-04-06 12:56:56,712 DEBUG:Using selector: SelectSelector
+2022-04-06 12:57:03,680 DEBUG:Using selector: SelectSelector
+2022-04-06 12:57:24,793 WARNING:Not Found: /
+2022-04-06 12:57:40,891 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-06 12:57:40,891 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-06 13:01:01,836 DEBUG:Entered company Name - bigcommerce
+2022-04-06 13:01:01,836 DEBUG:Entered description is - abcd
+2022-04-06 13:01:09,293 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_csv(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 460, in _read
+    data = parser.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 1198, in read
+    ret = self._engine.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 2157, in read
+    data = self._reader.read(nrows)
+  File "pandas\_libs\parsers.pyx", line 847, in pandas._libs.parsers.TextReader.read
+  File "pandas\_libs\parsers.pyx", line 862, in pandas._libs.parsers.TextReader._read_low_memory
+  File "pandas\_libs\parsers.pyx", line 918, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas\_libs\parsers.pyx", line 905, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas\_libs\parsers.pyx", line 2042, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 4, saw 3
+
+2022-04-06 13:01:34,957 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-06 13:01:34,958 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-06 13:02:03,188 DEBUG:Entered company Name - bigcommerce
+2022-04-06 13:02:03,188 DEBUG:Entered description is - abcd
+2022-04-06 13:02:03,340 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_csv(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 460, in _read
+    data = parser.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 1198, in read
+    ret = self._engine.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 2157, in read
+    data = self._reader.read(nrows)
+  File "pandas\_libs\parsers.pyx", line 847, in pandas._libs.parsers.TextReader.read
+  File "pandas\_libs\parsers.pyx", line 862, in pandas._libs.parsers.TextReader._read_low_memory
+  File "pandas\_libs\parsers.pyx", line 918, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas\_libs\parsers.pyx", line 905, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas\_libs\parsers.pyx", line 2042, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 4, saw 3
+
+2022-04-06 13:03:53,792 DEBUG:Entered company Name - bigcommerce
+2022-04-06 13:03:53,792 DEBUG:Entered description is - abcd
+2022-04-06 13:03:53,981 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_csv(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 460, in _read
+    data = parser.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 1198, in read
+    ret = self._engine.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 2157, in read
+    data = self._reader.read(nrows)
+  File "pandas\_libs\parsers.pyx", line 847, in pandas._libs.parsers.TextReader.read
+  File "pandas\_libs\parsers.pyx", line 862, in pandas._libs.parsers.TextReader._read_low_memory
+  File "pandas\_libs\parsers.pyx", line 918, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas\_libs\parsers.pyx", line 905, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas\_libs\parsers.pyx", line 2042, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 4, saw 3
+
+2022-04-06 13:06:11,411 WARNING:Not Found: /favicon.ico
+2022-04-06 13:06:44,986 DEBUG:Entered company Name - bigcommerce
+2022-04-06 13:06:44,986 DEBUG:Entered description is - abcd
+2022-04-06 13:06:45,570 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_csv(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 460, in _read
+    data = parser.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 1198, in read
+    ret = self._engine.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 2157, in read
+    data = self._reader.read(nrows)
+  File "pandas\_libs\parsers.pyx", line 847, in pandas._libs.parsers.TextReader.read
+  File "pandas\_libs\parsers.pyx", line 862, in pandas._libs.parsers.TextReader._read_low_memory
+  File "pandas\_libs\parsers.pyx", line 918, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas\_libs\parsers.pyx", line 905, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas\_libs\parsers.pyx", line 2042, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 4, saw 3
+
+2022-04-06 13:09:02,266 DEBUG:Entered company Name - bigcommerce
+2022-04-06 13:09:02,266 DEBUG:Entered description is - abcd
+2022-04-06 13:09:03,447 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_csv(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 460, in _read
+    data = parser.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 1198, in read
+    ret = self._engine.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 2157, in read
+    data = self._reader.read(nrows)
+  File "pandas\_libs\parsers.pyx", line 847, in pandas._libs.parsers.TextReader.read
+  File "pandas\_libs\parsers.pyx", line 862, in pandas._libs.parsers.TextReader._read_low_memory
+  File "pandas\_libs\parsers.pyx", line 918, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas\_libs\parsers.pyx", line 905, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas\_libs\parsers.pyx", line 2042, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 4, saw 3
+
+2022-04-06 13:09:12,676 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-06 13:09:12,676 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-06 13:09:50,976 WARNING:Not Found: /bigmigrate/custmer
+2022-04-06 13:10:13,493 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-06 13:10:13,493 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-06 13:12:06,505 DEBUG:Entered company Name - rfd
+2022-04-06 13:12:06,505 DEBUG:Entered description is - vcnbnm
+2022-04-06 13:12:07,164 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_csv(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 460, in _read
+    data = parser.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 1198, in read
+    ret = self._engine.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 2157, in read
+    data = self._reader.read(nrows)
+  File "pandas\_libs\parsers.pyx", line 847, in pandas._libs.parsers.TextReader.read
+  File "pandas\_libs\parsers.pyx", line 862, in pandas._libs.parsers.TextReader._read_low_memory
+  File "pandas\_libs\parsers.pyx", line 918, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas\_libs\parsers.pyx", line 905, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas\_libs\parsers.pyx", line 2042, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 4, saw 3
+
+2022-04-06 13:13:41,588 DEBUG:Entered company Name - rfd
+2022-04-06 13:13:41,588 DEBUG:Entered description is - vcnbnm
+2022-04-06 13:13:42,314 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_csv(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 460, in _read
+    data = parser.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 1198, in read
+    ret = self._engine.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 2157, in read
+    data = self._reader.read(nrows)
+  File "pandas\_libs\parsers.pyx", line 847, in pandas._libs.parsers.TextReader.read
+  File "pandas\_libs\parsers.pyx", line 862, in pandas._libs.parsers.TextReader._read_low_memory
+  File "pandas\_libs\parsers.pyx", line 918, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas\_libs\parsers.pyx", line 905, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas\_libs\parsers.pyx", line 2042, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 4, saw 3
+
+2022-04-06 13:14:02,904 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-06 13:14:02,904 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-06 13:14:39,560 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-06 13:14:39,560 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-06 13:14:47,100 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-06 13:14:47,100 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-06 13:14:47,236 WARNING:Bad Request: /bigmigrate/customer/
+2022-04-06 13:17:00,405 DEBUG:Entered company Name - mnjdjk
+2022-04-06 13:17:00,405 DEBUG:Entered description is - angfh
+2022-04-06 13:17:01,006 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_csv(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 460, in _read
+    data = parser.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 1198, in read
+    ret = self._engine.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 2157, in read
+    data = self._reader.read(nrows)
+  File "pandas\_libs\parsers.pyx", line 847, in pandas._libs.parsers.TextReader.read
+  File "pandas\_libs\parsers.pyx", line 862, in pandas._libs.parsers.TextReader._read_low_memory
+  File "pandas\_libs\parsers.pyx", line 918, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas\_libs\parsers.pyx", line 905, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas\_libs\parsers.pyx", line 2042, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 4, saw 3
+
+2022-04-06 13:17:55,424 WARNING:Not Found: /favicon.ico
+2022-04-06 13:18:59,065 DEBUG:Entered company Name - mnjdjk
+2022-04-06 13:18:59,065 DEBUG:Entered description is - angfh
+2022-04-06 13:19:01,038 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_csv(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 460, in _read
+    data = parser.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 1198, in read
+    ret = self._engine.read(nrows)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\parsers.py", line 2157, in read
+    data = self._reader.read(nrows)
+  File "pandas\_libs\parsers.pyx", line 847, in pandas._libs.parsers.TextReader.read
+  File "pandas\_libs\parsers.pyx", line 862, in pandas._libs.parsers.TextReader._read_low_memory
+  File "pandas\_libs\parsers.pyx", line 918, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas\_libs\parsers.pyx", line 905, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas\_libs\parsers.pyx", line 2042, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 49, saw 2
+
+2022-04-06 13:19:55,171 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-06 13:19:55,171 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-06 13:19:55,407 WARNING:Bad Request: /bigmigrate/customer/
+2022-04-06 13:20:06,764 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-06 13:20:06,765 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-06 13:20:36,961 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-06 13:20:36,965 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-06 13:20:37,123 WARNING:Bad Request: /bigmigrate/customer/
+2022-04-07 14:28:52,469 WARNING:Not Found: /
+2022-04-07 14:29:33,280 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-07 14:29:33,280 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-07 14:47:28,045 DEBUG:Entered company Name - bigneo
+2022-04-07 14:47:28,045 DEBUG:Entered description is - habknv
+2022-04-07 14:47:28,864 DEBUG:Working on 1 th row
+2022-04-07 14:47:29,344 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Email'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 42, in tojson
+    c["email"] = getMail(row['Email'])
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Email'
+2022-04-07 14:50:26,152 DEBUG:Entered company Name - bigneo
+2022-04-07 14:50:26,168 DEBUG:Entered description is - habknv
+2022-04-07 14:50:26,199 DEBUG:Working on 1 th row
+2022-04-07 14:50:26,485 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'First Name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 43, in tojson
+    addIfValue(c, "first_name", row['First Name'], 'blank')
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'First Name'
+2022-04-07 14:51:23,841 DEBUG:Entered company Name - bigneo
+2022-04-07 14:51:23,841 DEBUG:Entered description is - habknv
+2022-04-07 14:51:23,853 DEBUG:Working on 1 th row
+2022-04-07 14:51:23,995 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Note'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 47, in tojson
+    addIfValue(c, "notes", str(row['Note']))
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Note'
+2022-04-07 14:52:17,940 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-07 14:52:17,940 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-07 14:52:31,884 DEBUG:Entered company Name - bigneo
+2022-04-07 14:52:31,884 DEBUG:Entered description is - habknv
+2022-04-07 14:52:31,963 DEBUG:Working on 1 th row
+2022-04-07 14:52:32,116 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Tax Exempt'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 49, in tojson
+    addIfValue(c, "tax_exempt_category", row['Tax Exempt'])
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Tax Exempt'
+2022-04-07 14:54:53,991 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-07 14:54:53,991 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-07 14:55:03,132 DEBUG:Entered company Name - bigneo
+2022-04-07 14:55:03,132 DEBUG:Entered description is - habknv
+2022-04-07 14:55:03,148 DEBUG:Working on 1 th row
+2022-04-07 14:55:03,502 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Address1'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 53, in tojson
+    addIfValue(address, 'address1', str(row['Address1']))
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Address1'
+2022-04-07 14:55:26,364 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-07 14:55:26,364 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-07 14:55:35,948 DEBUG:Entered company Name - bigneo
+2022-04-07 14:55:35,948 DEBUG:Entered description is - habknv
+2022-04-07 14:55:35,963 DEBUG:Working on 1 th row
+2022-04-07 14:55:36,126 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Address2'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 54, in tojson
+    addIfValue(address, 'address2', str(row['Address2']))
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Address2'
+2022-04-07 14:56:03,160 DEBUG:Entered company Name - bigneo
+2022-04-07 14:56:03,160 DEBUG:Entered description is - habknv
+2022-04-07 14:56:03,160 DEBUG:Working on 1 th row
+2022-04-07 14:56:03,291 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'City'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 56, in tojson
+    addIfValue(address, 'city', str(row['City']), '...')
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'City'
+2022-04-07 14:56:18,127 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-07 14:56:18,127 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-07 14:56:29,965 DEBUG:Entered company Name - bigneo
+2022-04-07 14:56:29,965 DEBUG:Entered description is - habknv
+2022-04-07 14:56:29,981 DEBUG:Working on 1 th row
+2022-04-07 14:56:30,150 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Country'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 57, in tojson
+    addIfValue(address, 'company', str(row['Country']))
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Country'
+2022-04-07 14:56:54,594 DEBUG:Entered company Name - bigneo
+2022-04-07 14:56:54,594 DEBUG:Entered description is - habknv
+2022-04-07 14:56:54,610 DEBUG:Working on 1 th row
+2022-04-07 14:56:54,733 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Country Code'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 58, in tojson
+    addIfValue(address, 'country_code', str(row['Country Code']), 'CH')
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Country Code'
+2022-04-07 14:57:22,623 DEBUG:Entered company Name - bigneo
+2022-04-07 14:57:22,623 DEBUG:Entered description is - habknv
+2022-04-07 14:57:22,638 DEBUG:Working on 1 th row
+2022-04-07 14:57:22,776 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Zip'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 62, in tojson
+    addIfValue(address, 'postal_code', str(row['Zip']), '0000')
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Zip'
+2022-04-07 14:57:36,093 DEBUG:Entered company Name - bigneo
+2022-04-07 14:57:36,093 DEBUG:Entered description is - habknv
+2022-04-07 14:57:36,115 DEBUG:Working on 1 th row
+2022-04-07 14:57:36,262 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Province'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 135, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 64, in tojson
+    addIfValue(address, 'state_or_province', str(row['Province']), '...')
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Province'
+2022-04-07 14:57:58,794 DEBUG:Entered company Name - bigneo
+2022-04-07 14:57:58,794 DEBUG:Entered description is - habknv
+2022-04-07 14:57:58,809 DEBUG:Working on 1 th row
+2022-04-07 14:57:58,809 DEBUG:Working on 2 th row
+2022-04-07 14:57:58,809 DEBUG:Working on 3 th row
+2022-04-07 14:57:58,809 DEBUG:Working on 4 th row
+2022-04-07 14:57:58,809 DEBUG:Working on 5 th row
+2022-04-07 14:57:58,809 DEBUG:Working on 6 th row
+2022-04-07 14:57:58,809 DEBUG:Working on 7 th row
+2022-04-07 14:57:58,809 DEBUG:Working on 8 th row
+2022-04-07 14:57:58,809 DEBUG:Working on 9 th row
+2022-04-07 14:57:58,809 DEBUG:Working on 10 th row
+2022-04-07 14:57:58,910 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-07 14:58:00,383 DEBUG:https://api.bigcommerce.com:443 "POST /stores/wtp9jm0thm/v3/customers HTTP/1.1" 422 None
+2022-04-07 14:58:00,477 DEBUG:<Response [422]>
+2022-04-07 14:58:00,477 DEBUG:{"status":422,"title":"Create customers failed.","type":"https://developer.bigcommerce.com/api-docs/getting-started/api-status-codes","errors":{"0.addresses.0.country_code":"A valid country_code is required","9.addresses.0.country_code":"A valid country_code is required","8.addresses.0.country_code":"A valid country_code is required","2.addresses.0.country_code":"A valid country_code is required","1.addresses.0.country_code":"A valid country_code is required","5.addresses.0.country_code":"A valid country_code is required","4.addresses.0.country_code":"A valid country_code is required","3.addresses.0.country_code":"A valid country_code is required","6.addresses.0.country_code":"A valid country_code is required","7.addresses.0.country_code":"A valid country_code is required"}}
+2022-04-07 14:58:07,801 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-07 14:58:07,801 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-07 14:58:18,887 DEBUG:Entered company Name - bigneo
+2022-04-07 14:58:18,887 DEBUG:Entered description is - habknv
+2022-04-07 14:58:18,902 DEBUG:Working on 1 th row
+2022-04-07 14:58:18,902 DEBUG:Working on 2 th row
+2022-04-07 14:58:18,902 DEBUG:Working on 3 th row
+2022-04-07 14:58:18,902 DEBUG:Working on 4 th row
+2022-04-07 14:58:18,902 DEBUG:Working on 5 th row
+2022-04-07 14:58:18,902 DEBUG:Working on 6 th row
+2022-04-07 14:58:18,902 DEBUG:Working on 7 th row
+2022-04-07 14:58:18,902 DEBUG:Working on 8 th row
+2022-04-07 14:58:18,902 DEBUG:Working on 9 th row
+2022-04-07 14:58:18,902 DEBUG:Working on 10 th row
+2022-04-07 14:58:18,902 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-07 14:58:20,207 DEBUG:https://api.bigcommerce.com:443 "POST /stores/wtp9jm0thm/v3/customers HTTP/1.1" 422 None
+2022-04-07 14:58:20,222 DEBUG:<Response [422]>
+2022-04-07 14:58:20,222 DEBUG:{"status":422,"title":"Create customers failed.","type":"https://developer.bigcommerce.com/api-docs/getting-started/api-status-codes","errors":{"0.addresses.0.country_code":"A valid country_code is required","9.addresses.0.country_code":"A valid country_code is required","8.addresses.0.country_code":"A valid country_code is required","2.addresses.0.country_code":"A valid country_code is required","1.addresses.0.country_code":"A valid country_code is required","5.addresses.0.country_code":"A valid country_code is required","4.addresses.0.country_code":"A valid country_code is required","3.addresses.0.country_code":"A valid country_code is required","6.addresses.0.country_code":"A valid country_code is required","7.addresses.0.country_code":"A valid country_code is required"}}
+2022-04-07 16:07:53,757 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-07 16:07:56,713 DEBUG:Using selector: SelectSelector
+2022-04-08 14:11:00,095 WARNING:Not Found: /
+2022-04-08 14:12:13,291 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 14:12:13,291 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 14:13:27,429 DEBUG:Entered company Name - business
+2022-04-08 14:13:27,429 DEBUG:Entered description is - ACdxb
+2022-04-08 14:13:33,185 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_excel(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\util\_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 304, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 867, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 22, in __init__
+    super().__init__(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 351, in __init__
+    self.book = self.load_workbook(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 35, in load_workbook
+    return open_workbook(file_contents=data)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\__init__.py", line 170, in open_workbook
+    raise XLRDError(FILE_FORMAT_DESCRIPTIONS[file_format]+'; not supported')
+xlrd.biffh.XLRDError: Excel xlsx file; not supported
+2022-04-08 14:53:28,342 INFO:D:\Bigneo-master\venv\Lib\site-packages\xlrd\__init__.py changed, reloading.
+2022-04-08 14:53:28,426 DEBUG:Using selector: SelectSelector
+2022-04-08 14:54:03,617 DEBUG:Using selector: SelectSelector
+2022-04-08 14:54:15,343 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 14:54:15,343 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 14:54:17,249 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 14:54:17,249 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 14:54:58,327 DEBUG:Entered company Name - business
+2022-04-08 14:54:58,327 DEBUG:Entered description is - ACdxb
+2022-04-08 14:55:00,402 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_excel(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\util\_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 304, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 867, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 22, in __init__
+    super().__init__(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 351, in __init__
+    self.book = self.load_workbook(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 35, in load_workbook
+    return open_workbook(file_contents=data)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\__init__.py", line 172, in open_workbook
+    bk = open_workbook_xlsx(
+NameError: name 'open_workbook_xlsx' is not defined
+2022-04-08 14:55:46,714 INFO:D:\Bigneo-master\venv\Lib\site-packages\xlrd\__init__.py changed, reloading.
+2022-04-08 14:55:46,776 DEBUG:Using selector: SelectSelector
+2022-04-08 14:56:22,520 DEBUG:Entered company Name - business
+2022-04-08 14:56:22,520 DEBUG:Entered description is - ACdxb
+2022-04-08 14:56:23,284 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_excel(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\util\_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 304, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 867, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 22, in __init__
+    super().__init__(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 351, in __init__
+    self.book = self.load_workbook(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 35, in load_workbook
+    return open_workbook(file_contents=data)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\__init__.py", line 182, in open_workbook
+    ignore_workbook_corruption=ignore_workbook_corruption,
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\book.py", line 79, in open_workbook_xls
+    biff_version = bk.getbof(XL_WORKBOOK_GLOBALS)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\book.py", line 1284, in getbof
+    bof_error('Expected BOF record; found %r' % self.mem[savpos:savpos+8])
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\book.py", line 1278, in bof_error
+    raise XLRDError('Unsupported format, or corrupt file: ' + msg)
+xlrd.biffh.XLRDError: Unsupported format, or corrupt file: Expected BOF record; found b'PK\x03\x04\n\x00\x00\x00'
+2022-04-08 14:57:01,888 INFO:D:\Bigneo-master\venv\Lib\site-packages\xlrd\__init__.py changed, reloading.
+2022-04-08 14:57:01,904 DEBUG:Using selector: SelectSelector
+2022-04-08 14:57:30,136 DEBUG:Entered company Name - business
+2022-04-08 14:57:30,136 DEBUG:Entered description is - ACdxb
+2022-04-08 14:57:30,274 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_excel(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\util\_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 304, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 867, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 22, in __init__
+    super().__init__(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 351, in __init__
+    self.book = self.load_workbook(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 35, in load_workbook
+    return open_workbook(file_contents=data)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\__init__.py", line 170, in open_workbook
+    raise XLRDError(FILE_FORMAT_DESCRIPTIONS[file_format]+'; not supported')
+xlrd.biffh.XLRDError: Excel xlsx file; not supported
+2022-04-08 15:05:00,341 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-08 15:05:00,341 DEBUG:Using selector: SelectSelector
+2022-04-08 15:05:07,115 DEBUG:Using selector: SelectSelector
+2022-04-08 15:05:20,900 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 15:05:20,900 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 15:05:27,187 DEBUG:Entered company Name - business
+2022-04-08 15:05:27,187 DEBUG:Entered description is - ACdxb
+2022-04-08 15:05:27,350 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_xlsx(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\__init__.py", line 258, in __getattr__
+    raise AttributeError(f"module 'pandas' has no attribute '{name}'")
+AttributeError: module 'pandas' has no attribute 'read_xlsx'
+2022-04-08 15:06:04,402 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-08 15:06:04,402 DEBUG:Using selector: SelectSelector
+2022-04-08 15:30:43,201 DEBUG:Entered company Name - business
+2022-04-08 15:30:43,201 DEBUG:Entered description is - ACdxb
+2022-04-08 15:30:43,734 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_excel(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\util\_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 304, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 867, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 22, in __init__
+    super().__init__(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 351, in __init__
+    self.book = self.load_workbook(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 35, in load_workbook
+    return open_workbook(file_contents=data)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\__init__.py", line 170, in open_workbook
+    raise XLRDError(FILE_FORMAT_DESCRIPTIONS[file_format]+'; not supported')
+xlrd.biffh.XLRDError: Excel xlsx file; not supported
+2022-04-08 15:32:24,761 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 15:32:24,761 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 15:32:36,937 DEBUG:Entered company Name - business
+2022-04-08 15:32:36,937 DEBUG:Entered description is - ACdxb
+2022-04-08 15:32:37,555 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_excel(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\util\_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 304, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 867, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 22, in __init__
+    super().__init__(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 351, in __init__
+    self.book = self.load_workbook(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 35, in load_workbook
+    return open_workbook(file_contents=data)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\__init__.py", line 170, in open_workbook
+    raise XLRDError(FILE_FORMAT_DESCRIPTIONS[file_format]+'; not supported')
+xlrd.biffh.XLRDError: Excel xlsx file; not supported
+2022-04-08 16:31:40,957 DEBUG:Entered company Name - business
+2022-04-08 16:31:40,957 DEBUG:Entered description is - ACdxb
+2022-04-08 16:31:41,104 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 120, in migrateCustomer
+    df = pd.read_excel(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\util\_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 304, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 867, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 22, in __init__
+    super().__init__(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 351, in __init__
+    self.book = self.load_workbook(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 35, in load_workbook
+    return open_workbook(file_contents=data)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\__init__.py", line 170, in open_workbook
+    raise XLRDError(FILE_FORMAT_DESCRIPTIONS[file_format]+'; not supported')
+xlrd.biffh.XLRDError: Excel xlsx file; not supported
+2022-04-08 16:36:14,088 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-08 16:36:14,420 DEBUG:Using selector: SelectSelector
+2022-04-08 16:36:57,470 WARNING:Not Found: /
+2022-04-08 16:37:22,357 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 16:37:22,357 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 16:38:22,415 DEBUG:Entered company Name - DCFD
+2022-04-08 16:38:22,415 DEBUG:Entered description is - SSZGVF
+2022-04-08 16:38:22,816 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 121, in migrateCustomer
+    df = pd.read_excel(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\util\_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 304, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 867, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 22, in __init__
+    super().__init__(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 351, in __init__
+    self.book = self.load_workbook(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 35, in load_workbook
+    return open_workbook(file_contents=data)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\__init__.py", line 170, in open_workbook
+    raise XLRDError(FILE_FORMAT_DESCRIPTIONS[file_format]+'; not supported')
+xlrd.biffh.XLRDError: Excel xlsx file; not supported
+2022-04-08 16:39:37,701 DEBUG:Entered company Name - DCFD
+2022-04-08 16:39:37,701 DEBUG:Entered description is - SSZGVF
+2022-04-08 16:39:37,854 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 121, in migrateCustomer
+    df = pd.read_excel(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\util\_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 304, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 867, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 22, in __init__
+    super().__init__(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 351, in __init__
+    self.book = self.load_workbook(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 35, in load_workbook
+    return open_workbook(file_contents=data)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\__init__.py", line 170, in open_workbook
+    raise XLRDError(FILE_FORMAT_DESCRIPTIONS[file_format]+'; not supported')
+xlrd.biffh.XLRDError: Excel xlsx file; not supported
+2022-04-08 16:40:44,014 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 16:40:44,014 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 16:41:30,401 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 16:41:30,401 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 16:41:30,768 WARNING:Not Found: /favicon.ico
+2022-04-08 16:41:32,418 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 16:41:32,418 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 16:41:38,328 DEBUG:Entered company Name - DCFD
+2022-04-08 16:41:38,332 DEBUG:Entered description is - SSZGVF
+2022-04-08 16:41:38,609 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 121, in migrateCustomer
+    df = pd.read_excel(customerData.customer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\util\_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 304, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 867, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 22, in __init__
+    super().__init__(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_base.py", line 351, in __init__
+    self.book = self.load_workbook(filepath_or_buffer)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\io\excel\_xlrd.py", line 35, in load_workbook
+    return open_workbook(file_contents=data)
+  File "D:\Bigneo-master\venv\lib\site-packages\xlrd\__init__.py", line 170, in open_workbook
+    raise XLRDError(FILE_FORMAT_DESCRIPTIONS[file_format]+'; not supported')
+xlrd.biffh.XLRDError: Excel xlsx file; not supported
+2022-04-08 19:23:51,171 DEBUG:Using selector: SelectSelector
+2022-04-08 19:29:08,907 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 19:29:08,976 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 19:29:13,854 WARNING:Not Found: /
+2022-04-08 19:29:13,854 WARNING:Not Found: /favicon.ico
+2022-04-08 19:29:32,430 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 19:29:32,436 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-08 19:31:15,704 DEBUG:Entered company Name - ihk
+2022-04-08 19:31:15,704 DEBUG:Entered description is - cfh
+2022-04-08 19:31:49,200 DEBUG:Working on 1 th row
+2022-04-08 19:31:55,650 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2898, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Email'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 136, in migrateCustomer
+    customers.append(tojson(row))
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 43, in tojson
+    c["email"] = getMail(row['Email'])
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 882, in __getitem__
+    return self._get_value(key)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\series.py", line 990, in _get_value
+    loc = self.index.get_loc(label)
+  File "D:\Bigneo-master\venv\lib\site-packages\pandas\core\indexes\base.py", line 2900, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Email'
+2022-04-08 19:35:31,956 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-08 19:35:33,414 DEBUG:Using selector: SelectSelector
+2022-04-08 19:38:11,996 DEBUG:Entered company Name - ihk
+2022-04-08 19:38:12,028 DEBUG:Entered description is - cfh
+2022-04-08 19:38:17,860 DEBUG:Working on 1 th row
+2022-04-08 19:38:17,983 DEBUG:Working on 2 th row
+2022-04-08 19:38:17,983 DEBUG:Working on 3 th row
+2022-04-08 19:38:17,983 DEBUG:Working on 4 th row
+2022-04-08 19:38:17,998 DEBUG:Working on 5 th row
+2022-04-08 19:38:17,998 DEBUG:Working on 6 th row
+2022-04-08 19:38:17,998 DEBUG:Working on 7 th row
+2022-04-08 19:38:17,998 DEBUG:Working on 8 th row
+2022-04-08 19:38:17,998 DEBUG:Working on 9 th row
+2022-04-08 19:38:17,998 DEBUG:Working on 10 th row
+2022-04-08 19:38:18,099 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-08 19:38:20,891 DEBUG:https://api.bigcommerce.com:443 "POST /stores/b5ajmj9rbq/v3/customers HTTP/1.1" 422 None
+2022-04-08 19:38:20,907 DEBUG:<Response [422]>
+2022-04-08 19:38:20,907 DEBUG:{"status":422,"title":"Create customers failed.","type":"https://developer.bigcommerce.com/api-docs/getting-started/api-status-codes","errors":{".customer_create":"Error creating customers: email arun@gmail.com already in use"}}
+2022-04-08 19:38:26,494 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-08 19:38:26,494 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-11 12:57:40,912 WARNING:Not Found: /
+2022-04-11 12:57:55,094 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-11 12:57:55,100 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-11 13:00:53,191 DEBUG:Entered company Name - abc
+2022-04-11 13:00:53,191 DEBUG:Entered description is - abcdef
+2022-04-11 13:00:55,866 DEBUG:Working on 1 th row
+2022-04-11 13:00:55,888 DEBUG:Working on 2 th row
+2022-04-11 13:00:55,888 DEBUG:Working on 3 th row
+2022-04-11 13:00:55,888 DEBUG:Working on 4 th row
+2022-04-11 13:00:55,888 DEBUG:Working on 5 th row
+2022-04-11 13:00:55,888 DEBUG:Working on 6 th row
+2022-04-11 13:00:55,888 DEBUG:Working on 7 th row
+2022-04-11 13:00:55,891 DEBUG:Working on 8 th row
+2022-04-11 13:00:55,891 DEBUG:Working on 9 th row
+2022-04-11 13:00:55,891 DEBUG:Working on 10 th row
+2022-04-11 13:00:55,951 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-11 13:00:57,567 DEBUG:https://api.bigcommerce.com:443 "POST /stores/b5ajmj9rbq/v3/customers HTTP/1.1" 422 None
+2022-04-11 13:00:57,573 DEBUG:<Response [422]>
+2022-04-11 13:00:57,576 DEBUG:{"status":422,"title":"Create customers failed.","type":"https://developer.bigcommerce.com/api-docs/getting-started/api-status-codes","errors":{".customer_create":"Error creating customers: email arun@gmail.com already in use"}}
+2022-04-11 13:03:03,442 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-11 13:03:03,442 DEBUG:Using selector: SelectSelector
+2022-04-11 13:04:04,018 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-11 13:04:04,018 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-11 13:04:04,688 WARNING:Not Found: /favicon.ico
+2022-04-11 13:04:10,090 DEBUG:Entered company Name - abc
+2022-04-11 13:04:10,090 DEBUG:Entered description is - abcdef
+2022-04-11 13:04:11,494 DEBUG:Working on 1 th row
+2022-04-11 13:04:11,494 DEBUG:Working on 2 th row
+2022-04-11 13:04:11,494 DEBUG:Working on 3 th row
+2022-04-11 13:04:11,494 DEBUG:Working on 4 th row
+2022-04-11 13:04:11,494 DEBUG:Working on 5 th row
+2022-04-11 13:04:11,494 DEBUG:Working on 6 th row
+2022-04-11 13:04:11,494 DEBUG:Working on 7 th row
+2022-04-11 13:04:11,494 DEBUG:Working on 8 th row
+2022-04-11 13:04:11,494 DEBUG:Working on 9 th row
+2022-04-11 13:04:11,494 DEBUG:Working on 10 th row
+2022-04-11 13:04:11,525 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-11 13:04:12,550 DEBUG:https://api.bigcommerce.com:443 "POST /stores/b5ajmj9rbq/v3/customers HTTP/1.1" 422 None
+2022-04-11 13:04:13,901 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 141, in migrateCustomer
+    logfile.write(res)
+TypeError: write() argument must be str, not Response
+2022-04-11 13:04:48,160 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-11 13:04:48,160 DEBUG:Using selector: SelectSelector
+2022-04-11 13:04:57,953 DEBUG:Entered company Name - abc
+2022-04-11 13:04:57,953 DEBUG:Entered description is - abcdef
+2022-04-11 13:04:58,476 DEBUG:Working on 1 th row
+2022-04-11 13:04:58,476 DEBUG:Working on 2 th row
+2022-04-11 13:04:58,476 DEBUG:Working on 3 th row
+2022-04-11 13:04:58,476 DEBUG:Working on 4 th row
+2022-04-11 13:04:58,476 DEBUG:Working on 5 th row
+2022-04-11 13:04:58,476 DEBUG:Working on 6 th row
+2022-04-11 13:04:58,476 DEBUG:Working on 7 th row
+2022-04-11 13:04:58,476 DEBUG:Working on 8 th row
+2022-04-11 13:04:58,476 DEBUG:Working on 9 th row
+2022-04-11 13:04:58,508 DEBUG:Working on 10 th row
+2022-04-11 13:04:58,508 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-11 13:04:59,658 DEBUG:https://api.bigcommerce.com:443 "POST /stores/b5ajmj9rbq/v3/customers HTTP/1.1" 422 None
+2022-04-11 13:04:59,781 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 141, in migrateCustomer
+    logfile.write(res)
+TypeError: write() argument must be str, not None
+2022-04-11 13:05:02,267 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-11 13:05:02,267 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-11 13:05:06,363 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-11 13:05:06,363 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-11 13:05:10,944 DEBUG:Entered company Name - abc
+2022-04-11 13:05:10,944 DEBUG:Entered description is - abcdef
+2022-04-11 13:05:11,013 DEBUG:Working on 1 th row
+2022-04-11 13:05:11,013 DEBUG:Working on 2 th row
+2022-04-11 13:05:11,013 DEBUG:Working on 3 th row
+2022-04-11 13:05:11,013 DEBUG:Working on 4 th row
+2022-04-11 13:05:11,013 DEBUG:Working on 5 th row
+2022-04-11 13:05:11,013 DEBUG:Working on 6 th row
+2022-04-11 13:05:11,013 DEBUG:Working on 7 th row
+2022-04-11 13:05:11,013 DEBUG:Working on 8 th row
+2022-04-11 13:05:11,013 DEBUG:Working on 9 th row
+2022-04-11 13:05:11,013 DEBUG:Working on 10 th row
+2022-04-11 13:05:11,013 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-11 13:05:12,031 DEBUG:https://api.bigcommerce.com:443 "POST /stores/b5ajmj9rbq/v3/customers HTTP/1.1" 422 None
+2022-04-11 13:05:12,132 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 141, in migrateCustomer
+    logfile.write(res)
+TypeError: write() argument must be str, not None
+2022-04-11 13:05:50,663 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-11 13:05:50,663 DEBUG:Using selector: SelectSelector
+2022-04-11 13:06:00,204 DEBUG:Entered company Name - abc
+2022-04-11 13:06:00,204 DEBUG:Entered description is - abcdef
+2022-04-11 13:06:00,627 DEBUG:Working on 1 th row
+2022-04-11 13:06:00,627 DEBUG:Working on 2 th row
+2022-04-11 13:06:00,627 DEBUG:Working on 3 th row
+2022-04-11 13:06:00,627 DEBUG:Working on 4 th row
+2022-04-11 13:06:00,627 DEBUG:Working on 5 th row
+2022-04-11 13:06:00,627 DEBUG:Working on 6 th row
+2022-04-11 13:06:00,627 DEBUG:Working on 7 th row
+2022-04-11 13:06:00,627 DEBUG:Working on 8 th row
+2022-04-11 13:06:00,627 DEBUG:Working on 9 th row
+2022-04-11 13:06:00,627 DEBUG:Working on 10 th row
+2022-04-11 13:06:00,642 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-11 13:06:01,947 DEBUG:https://api.bigcommerce.com:443 "POST /stores/b5ajmj9rbq/v3/customers HTTP/1.1" 422 None
+2022-04-11 13:06:01,947 DEBUG:<Response [422]>
+2022-04-11 13:06:01,947 DEBUG:{"status":422,"title":"Create customers failed.","type":"https://developer.bigcommerce.com/api-docs/getting-started/api-status-codes","errors":{".customer_create":"Error creating customers: email arun@gmail.com already in use"}}
+2022-04-11 13:06:01,962 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-11 13:06:02,811 DEBUG:https://api.bigcommerce.com:443 "POST /stores/b5ajmj9rbq/v3/customers HTTP/1.1" 422 None
+2022-04-11 13:06:02,912 ERROR:Internal Server Error: /bigmigrate/customer/
+Traceback (most recent call last):
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Bigneo-master\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\Bigneo-master\bigmigrate\views.py", line 53, in post
+    migrateCustomer(d.id)
+  File "D:\Bigneo-master\bigmigrate\migratecustomer.py", line 139, in migrateCustomer
+    logfile.write(res)
+TypeError: write() argument must be str, not Response
+2022-04-11 13:06:52,484 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-11 13:06:52,484 DEBUG:Using selector: SelectSelector
+2022-04-11 13:07:04,891 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-11 13:07:04,891 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-11 13:07:06,764 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-11 13:07:06,764 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-11 13:07:10,924 DEBUG:Entered company Name - abc
+2022-04-11 13:07:10,924 DEBUG:Entered description is - abcdef
+2022-04-11 13:07:11,426 DEBUG:Working on 1 th row
+2022-04-11 13:07:11,426 DEBUG:Working on 2 th row
+2022-04-11 13:07:11,426 DEBUG:Working on 3 th row
+2022-04-11 13:07:11,426 DEBUG:Working on 4 th row
+2022-04-11 13:07:11,426 DEBUG:Working on 5 th row
+2022-04-11 13:07:11,426 DEBUG:Working on 6 th row
+2022-04-11 13:07:11,426 DEBUG:Working on 7 th row
+2022-04-11 13:07:11,426 DEBUG:Working on 8 th row
+2022-04-11 13:07:11,426 DEBUG:Working on 9 th row
+2022-04-11 13:07:11,426 DEBUG:Working on 10 th row
+2022-04-11 13:07:11,441 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-11 13:07:12,714 DEBUG:https://api.bigcommerce.com:443 "POST /stores/b5ajmj9rbq/v3/customers HTTP/1.1" 422 None
+2022-04-11 13:07:12,714 DEBUG:<Response [422]>
+2022-04-11 13:07:12,714 DEBUG:{"status":422,"title":"Create customers failed.","type":"https://developer.bigcommerce.com/api-docs/getting-started/api-status-codes","errors":{".customer_create":"Error creating customers: email arun@gmail.com already in use"}}
+2022-04-11 13:07:12,714 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-11 13:07:13,700 DEBUG:https://api.bigcommerce.com:443 "POST /stores/b5ajmj9rbq/v3/customers HTTP/1.1" 422 None
+2022-04-11 14:22:12,463 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-11 14:22:12,569 DEBUG:Using selector: SelectSelector
+2022-04-11 14:27:18,794 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-11 14:27:18,810 DEBUG:Using selector: SelectSelector
+2022-04-11 14:27:29,651 WARNING:Not Found: /
+2022-04-11 14:27:36,742 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-11 14:27:36,742 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-11 14:32:28,756 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-11 14:32:28,756 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-11 14:35:55,739 DEBUG:Entered company Name - abcabc
+2022-04-11 14:35:55,739 DEBUG:Entered description is - aszgfh
+2022-04-11 14:35:57,469 DEBUG:Working on 1 th row
+2022-04-11 14:35:57,487 DEBUG:Working on 2 th row
+2022-04-11 14:35:57,487 DEBUG:Working on 3 th row
+2022-04-11 14:35:57,487 DEBUG:Working on 4 th row
+2022-04-11 14:35:57,487 DEBUG:Working on 5 th row
+2022-04-11 14:35:57,487 DEBUG:Working on 6 th row
+2022-04-11 14:35:57,487 DEBUG:Working on 7 th row
+2022-04-11 14:35:57,487 DEBUG:Working on 8 th row
+2022-04-11 14:35:57,487 DEBUG:Working on 9 th row
+2022-04-11 14:35:57,491 DEBUG:Working on 10 th row
+2022-04-11 14:35:57,526 DEBUG:Starting new HTTPS connection (1): api.bigcommerce.com:443
+2022-04-11 14:35:58,773 DEBUG:https://api.bigcommerce.com:443 "POST /stores/b5ajmj9rbq/v3/customers HTTP/1.1" 422 None
+2022-04-11 14:52:13,356 INFO:D:\Bigneo-master\bigmigrate\migratecustomer.py changed, reloading.
+2022-04-11 14:52:13,372 DEBUG:Using selector: SelectSelector
+2022-04-12 11:50:07,664 WARNING:Not Found: /
+2022-04-12 12:19:07,865 DEBUG:Using selector: SelectSelector
+2022-04-12 12:21:03,011 WARNING:Not Found: /
+2022-04-12 12:21:19,527 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-12 12:21:19,527 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-12 12:22:42,303 WARNING:Not Found: /favicon.ico
+2022-04-12 12:31:29,544 DEBUG:Successfully imported extension module "markdown.extensions.toc".
+2022-04-12 12:31:29,544 DEBUG:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2022-04-12 12:31:35,115 WARNING:Not Found: /favicon.ico
+2022-04-12 12:57:08,833 DEBUG:Using selector: SelectSelector

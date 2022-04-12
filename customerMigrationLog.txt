@@ -1,0 +1,136 @@
+RowIndex 1
+RowIndex 1
+RowIndex 1
+RowIndex 1
+RowIndex 1
+RowIndex 1
+RowIndex 1
+RowIndex 1
+RowIndex 1
+RowIndex 2
+RowIndex 3
+RowIndex 4
+RowIndex 5
+RowIndex 6
+RowIndex 7
+RowIndex 8
+RowIndex 9
+RowIndex 10
+Error
+"[{\"email\": \"abc@gmail.com\", \"first_name\": \"abc\", \"last_name\": \"ef\", \"company\": \"qwe\", \"phone\": \"11111\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"abc\", \"last_name\": \"ef\", \"phone\": \"11111\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"anu@gmail.com\", \"first_name\": \"anu\", \"last_name\": \"a\", \"company\": \"dcf\", \"phone\": \"22222\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"anu\", \"last_name\": \"a\", \"phone\": \"22222\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"arun@gmail.com\", \"first_name\": \"arun\", \"last_name\": \"s\", \"company\": \"hgb\", \"phone\": \"33333\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"arun\", \"last_name\": \"s\", \"phone\": \"33333\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"qwe@gmail.com\", \"first_name\": \"qwe\", \"last_name\": \"d\", \"company\": \"xlckm\", \"phone\": \"44444\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"qwe\", \"last_name\": \"d\", \"phone\": \"44444\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"samj@gmail.com\", \"first_name\": \"sam\", \"last_name\": \"j\", \"company\": \"abn\", \"phone\": \"55555\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"sam\", \"last_name\": \"j\", \"phone\": \"55555\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"manu@gmail.com\", \"first_name\": \"manu\", \"last_name\": \"a\", \"company\": \"iuhnk\", \"phone\": \"66666\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"manu\", \"last_name\": \"a\", \"phone\": \"66666\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"ram@gmail.com\", \"first_name\": \"ram\", \"last_name\": \"e\", \"company\": \"khbn\", \"phone\": \"77777\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"ram\", \"last_name\": \"e\", \"phone\": \"77777\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"xyz@gmail.com\", \"first_name\": \"xyz\", \"last_name\": \"x\", \"company\": \"nkjnk\", \"phone\": \"88888\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"xyz\", \"last_name\": \"x\", \"phone\": \"88888\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"rty@gmail.com\", \"first_name\": \"rty\", \"last_name\": \"t\", \"company\": \"bjknm\", \"phone\": \"99999\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"rty\", \"last_name\": \"t\", \"phone\": \"99999\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"asd@gmail.com\", \"first_name\": \"asd\", \"last_name\": \"f\", \"company\": \"jnkkm\", \"phone\": \"12312\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"asd\", \"last_name\": \"f\", \"phone\": \"12312\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}]"
+{"0.addresses.0.country_code": "A valid country_code is required", "9.addresses.0.country_code": "A valid country_code is required", "8.addresses.0.country_code": "A valid country_code is required", "2.addresses.0.country_code": "A valid country_code is required", "1.addresses.0.country_code": "A valid country_code is required", "5.addresses.0.country_code": "A valid country_code is required", "4.addresses.0.country_code": "A valid country_code is required", "3.addresses.0.country_code": "A valid country_code is required", "6.addresses.0.country_code": "A valid country_code is required", "7.addresses.0.country_code": "A valid country_code is required"}
+
+Migration Completed
+RowIndex 1
+RowIndex 2
+RowIndex 3
+RowIndex 4
+RowIndex 5
+RowIndex 6
+RowIndex 7
+RowIndex 8
+RowIndex 9
+RowIndex 10
+Error
+"[{\"email\": \"abc@gmail.com\", \"first_name\": \"abc\", \"last_name\": \"ef\", \"company\": \"qwe\", \"phone\": \"11111\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"abc\", \"last_name\": \"ef\", \"phone\": \"11111\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"anu@gmail.com\", \"first_name\": \"anu\", \"last_name\": \"a\", \"company\": \"dcf\", \"phone\": \"22222\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"anu\", \"last_name\": \"a\", \"phone\": \"22222\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"arun@gmail.com\", \"first_name\": \"arun\", \"last_name\": \"s\", \"company\": \"hgb\", \"phone\": \"33333\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"arun\", \"last_name\": \"s\", \"phone\": \"33333\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"qwe@gmail.com\", \"first_name\": \"qwe\", \"last_name\": \"d\", \"company\": \"xlckm\", \"phone\": \"44444\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"qwe\", \"last_name\": \"d\", \"phone\": \"44444\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"samj@gmail.com\", \"first_name\": \"sam\", \"last_name\": \"j\", \"company\": \"abn\", \"phone\": \"55555\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"sam\", \"last_name\": \"j\", \"phone\": \"55555\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"manu@gmail.com\", \"first_name\": \"manu\", \"last_name\": \"a\", \"company\": \"iuhnk\", \"phone\": \"66666\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"manu\", \"last_name\": \"a\", \"phone\": \"66666\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"ram@gmail.com\", \"first_name\": \"ram\", \"last_name\": \"e\", \"company\": \"khbn\", \"phone\": \"77777\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"ram\", \"last_name\": \"e\", \"phone\": \"77777\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"xyz@gmail.com\", \"first_name\": \"xyz\", \"last_name\": \"x\", \"company\": \"nkjnk\", \"phone\": \"88888\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"xyz\", \"last_name\": \"x\", \"phone\": \"88888\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"rty@gmail.com\", \"first_name\": \"rty\", \"last_name\": \"t\", \"company\": \"bjknm\", \"phone\": \"99999\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"rty\", \"last_name\": \"t\", \"phone\": \"99999\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"asd@gmail.com\", \"first_name\": \"asd\", \"last_name\": \"f\", \"company\": \"jnkkm\", \"phone\": \"12312\", \"notes\": \"nan\", \"customer_group_id\": 0, \"addresses\": [{\"address1\": \"nan\", \"address2\": \"nan\", \"address_type\": \"residential\", \"city\": \"nan\", \"company\": \"nan\", \"country_code\": \"nan\", \"first_name\": \"asd\", \"last_name\": \"f\", \"phone\": \"12312\", \"postal_code\": \"nan\", \"state_or_province\": \"nan\"}], \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}]"
+{"0.addresses.0.country_code": "A valid country_code is required", "9.addresses.0.country_code": "A valid country_code is required", "8.addresses.0.country_code": "A valid country_code is required", "2.addresses.0.country_code": "A valid country_code is required", "1.addresses.0.country_code": "A valid country_code is required", "5.addresses.0.country_code": "A valid country_code is required", "4.addresses.0.country_code": "A valid country_code is required", "3.addresses.0.country_code": "A valid country_code is required", "6.addresses.0.country_code": "A valid country_code is required", "7.addresses.0.country_code": "A valid country_code is required"}
+
+Migration Completed
+RowIndex 1
+RowIndex 1
+RowIndex 1
+RowIndex 1
+RowIndex 1
+RowIndex 2
+RowIndex 3
+RowIndex 4
+RowIndex 5
+RowIndex 6
+RowIndex 7
+RowIndex 8
+RowIndex 9
+RowIndex 10
+Error
+"[{\"email\": \"abc@gmail.com\", \"first_name\": \"abc\", \"last_name\": \"ef\", \"company\": \"qwe\", \"phone\": \"11111\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"anu@gmail.com\", \"first_name\": \"anu\", \"last_name\": \"a\", \"company\": \"dcf\", \"phone\": \"22222\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"arun@gmail.com\", \"first_name\": \"arun\", \"last_name\": \"s\", \"company\": \"hgb\", \"phone\": \"33333\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"qwe@gmail.com\", \"first_name\": \"qwe\", \"last_name\": \"d\", \"company\": \"xlckm\", \"phone\": \"44444\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"samj@gmail.com\", \"first_name\": \"sam\", \"last_name\": \"j\", \"company\": \"abn\", \"phone\": \"55555\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"manu@gmail.com\", \"first_name\": \"manu\", \"last_name\": \"a\", \"company\": \"iuhnk\", \"phone\": \"66666\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"ram@gmail.com\", \"first_name\": \"ram\", \"last_name\": \"e\", \"company\": \"khbn\", \"phone\": \"77777\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"xyz@gmail.com\", \"first_name\": \"xyz\", \"last_name\": \"x\", \"company\": \"nkjnk\", \"phone\": \"88888\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"rty@gmail.com\", \"first_name\": \"rty\", \"last_name\": \"t\", \"company\": \"bjknm\", \"phone\": \"99999\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"asd@gmail.com\", \"first_name\": \"asd\", \"last_name\": \"f\", \"company\": \"jnkkm\", \"phone\": \"12312\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}]"
+{".customer_create": "Error creating customers: email arun@gmail.com already in use"}
+
+Migration Completed
+RowIndex 1
+RowIndex 2
+RowIndex 3
+RowIndex 4
+RowIndex 5
+RowIndex 6
+RowIndex 7
+RowIndex 8
+RowIndex 9
+RowIndex 10
+Error
+"[{\"email\": \"abc@gmail.com\", \"first_name\": \"abc\", \"last_name\": \"ef\", \"company\": \"qwe\", \"phone\": \"11111\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"anu@gmail.com\", \"first_name\": \"anu\", \"last_name\": \"a\", \"company\": \"dcf\", \"phone\": \"22222\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"arun@gmail.com\", \"first_name\": \"arun\", \"last_name\": \"s\", \"company\": \"hgb\", \"phone\": \"33333\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"qwe@gmail.com\", \"first_name\": \"qwe\", \"last_name\": \"d\", \"company\": \"xlckm\", \"phone\": \"44444\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"samj@gmail.com\", \"first_name\": \"sam\", \"last_name\": \"j\", \"company\": \"abn\", \"phone\": \"55555\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"manu@gmail.com\", \"first_name\": \"manu\", \"last_name\": \"a\", \"company\": \"iuhnk\", \"phone\": \"66666\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"ram@gmail.com\", \"first_name\": \"ram\", \"last_name\": \"e\", \"company\": \"khbn\", \"phone\": \"77777\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"xyz@gmail.com\", \"first_name\": \"xyz\", \"last_name\": \"x\", \"company\": \"nkjnk\", \"phone\": \"88888\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"rty@gmail.com\", \"first_name\": \"rty\", \"last_name\": \"t\", \"company\": \"bjknm\", \"phone\": \"99999\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}, {\"email\": \"asd@gmail.com\", \"first_name\": \"asd\", \"last_name\": \"f\", \"company\": \"jnkkm\", \"phone\": \"12312\", \"authentication\": {\"force_password_reset\": true, \"new_password\": \"s4gsa63g54zdxf\"}, \"accepts_product_review_abandoned_cart_emails\": true, \"store_credit_amounts\": [{\"amount\": 0}], \"origin_channel_id\": 1}]"
+{".customer_create": "Error creating customers: email arun@gmail.com already in use"}
+
+Migration Completed
+RowIndex 1
+RowIndex 2
+RowIndex 3
+RowIndex 4
+RowIndex 5
+RowIndex 6
+RowIndex 7
+RowIndex 8
+RowIndex 9
+RowIndex 10
+RowIndex 1
+RowIndex 2
+RowIndex 3
+RowIndex 4
+RowIndex 5
+RowIndex 6
+RowIndex 7
+RowIndex 8
+RowIndex 9
+RowIndex 10
+RowIndex 1
+RowIndex 2
+RowIndex 3
+RowIndex 4
+RowIndex 5
+RowIndex 6
+RowIndex 7
+RowIndex 8
+RowIndex 9
+RowIndex 10
+RowIndex 1
+RowIndex 2
+RowIndex 3
+RowIndex 4
+RowIndex 5
+RowIndex 6
+RowIndex 7
+RowIndex 8
+RowIndex 9
+RowIndex 10
+RowIndex 1
+RowIndex 2
+RowIndex 3
+RowIndex 4
+RowIndex 5
+RowIndex 6
+RowIndex 7
+RowIndex 8
+RowIndex 9
+RowIndex 10
+{"status":422,"title":"The request payload has to be a JSON array for the endpoint","type":"https://developer.bigcommerce.com/api-docs/getting-started/api-status-codes","errors":{}}
+Migration Completed
+RowIndex 1
+RowIndex 2
+RowIndex 3
+RowIndex 4
+RowIndex 5
+RowIndex 6
+RowIndex 7
+RowIndex 8
+RowIndex 9
+RowIndex 10
+{"status":422,"title":"The request payload has to be a JSON array for the endpoint","type":"https://developer.bigcommerce.com/api-docs/getting-started/api-status-codes","errors":{}}
+Migration Completed
